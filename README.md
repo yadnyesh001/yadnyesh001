@@ -2,7 +2,7 @@
 👋 Hi, I’m Yadnyesh Badgujar<br>🌱 I’m currently learning Full Stack Web Development<br>👀 I’m looking to collaborate on Team Work on Project Management.<br>📫 You can reach me by LINKEDIN Profile. https://www.linkedin.com/in/yadnyeshbadgujar/<br>
 
 # 🧑‍💻 LeetCode Profile:
-https://leetcode.com/u/yadnyesh01
+![Leetcode Stats](https://leetcard.jacoblin.cool/yadnyesh01)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadnyesh_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yadnyeshbadgujar) 
