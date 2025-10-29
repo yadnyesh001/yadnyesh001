@@ -15,50 +15,43 @@
 
 ---
 
-## 👋 Introduction
+## 👋 About Me
 
-I'm **Yadnyesh Badgujar**, a passionate Computer Science undergraduate at **IIIT Sri City**, specializing in **Full Stack Web Development** with a strong focus on the **MERN Stack**.  
-I enjoy designing and building scalable, efficient, and user-friendly web applications that solve real-world challenges.
-
-### 🎯 Professional Focus
-- 🏗️ Building robust and scalable web applications  
-- ⚙️ Implementing clean architecture and design patterns  
-- 🚀 Enhancing performance and user experience  
-- 🤝 Contributing to open-source communities  
-- 📚 Continuous learning and upskilling  
+I'm **Yadnyesh Badgujar**, a **Full Stack Developer** passionate about building **scalable and efficient web applications** using the **MERN Stack**.  
+I focus on creating seamless user experiences and writing clean, maintainable code while constantly learning new technologies.
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend Skills"/>
-      <br/>React · JavaScript · HTML5 · CSS3 · Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend Skills"/><br/>
+      React · JavaScript · HTML5 · CSS3 · Tailwind CSS
     </td>
     <td align="center" width="25%">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills"/>
-      <br/>Node.js · Express.js · MongoDB · MySQL
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills"/><br/>
+      Node.js · Express.js · MongoDB · MySQL
     </td>
     <td align="center" width="25%">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/>
-      <br/>Git · GitHub · VS Code · Postman · Figma
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/><br/>
+      Git · GitHub · VS Code · Postman · Figma
     </td>
     <td align="center" width="25%">
-      <h3>Currently Learning</h3>
-      <img src="https://skillicons.dev/icons?i=docker,aws,typescript,redux" alt="Learning"/>
-      <br/>Docker · AWS · TypeScript · Redux
+      <h3>Learning</h3>
+      <img src="https://skillicons.dev/icons?i=docker,aws,typescript,redux" alt="Learning"/><br/>
+      Docker · AWS · TypeScript · Redux
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Performance Metrics
+## 📊 GitHub Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yadnyesh001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -75,14 +68,14 @@ I enjoy designing and building scalable, efficient, and user-friendly web applic
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadnyesh001&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yadnyesh001&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 💼 Professional Highlights
-
-### 🎓 Education
+<p align="center">
+  🚀 *"Code. Create. Contribute."*
+</p>
