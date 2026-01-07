@@ -1,83 +1,26 @@
-<h1 align="center">Hi, I'm Yadnyesh Badgujar 👋</h1>
+# Hi, I'm Yadnyesh Badgujar 👋
 
-<p align="center">
-  <strong>Full Stack Developer | MERN Stack</strong><br/>
-  Building scalable, clean, and user-focused web applications
-</p>
+Full Stack Developer specializing in the **MERN Stack**, focused on building scalable web applications with clean, maintainable code.
 
-<p align="center">
-  <a href="https://yadnyeshbadgujar.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/yadnyeshbadgujar">LinkedIn</a> •
-  <a href="mailto:yadnyeshbadgujar@gmail.com">Email</a>
-</p>
+## 🛠️ Tech Stack
 
----
+**Frontend:** React · JavaScript · HTML5 · CSS3 · Tailwind CSS  
+**Backend:** Node.js · Express.js · MongoDB · MySQL  
+**Tools & Platforms:** Git · GitHub · VS Code · Postman · Figma  
+**Currently Learning:** Docker · AWS · TypeScript · Redux
 
-## About Me
+## 📫 Let's Connect
 
-I’m a **Full Stack Developer** with strong hands-on experience in the **MERN stack**, focused on building **scalable backend systems**, **clean frontend architectures**, and **real-world projects**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-I enjoy:
-- Designing REST APIs and backend logic  
-- Writing maintainable, production-ready code  
-- Solving DSA problems to improve problem-solving skills  
-- Continuously learning modern web technologies  
+## 📊 GitHub Stats
 
-Currently, I’m looking for **SDE / Full Stack Developer (Fresher)** opportunities.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## Tech Stack
-
-**Frontend**
-- React, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-
-**Backend**
-- Node.js, Express.js
-- MongoDB, MySQL
-
-**Tools & Platforms**
-- Git, GitHub
-- VS Code, Postman
-- Figma
-
-**Currently Learning**
-- TypeScript
-- Redux
-- Docker
-- AWS (Basics)
-
----
-
-## Projects (Highlights)
-
-- **Full Stack Web Applications** using MERN stack  
-- **REST APIs** with authentication & authorization  
-- **Database-driven applications** with MongoDB & SQL  
-
-👉 More details and live demos on my **portfolio website**.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yadnyesh001&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyesh001&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## What I Bring
-
-- Strong fundamentals in **DSA & problem solving**
-- Clear understanding of **frontend–backend integration**
-- Ability to learn fast and adapt to new tech
-- Professional communication & teamwork mindset
-
----
-
-<p align="center">
-  <em>“Write clean code. Build useful things. Keep learning.”</em>
-</p>
+💡 *Open to collaboration and exciting opportunities*
