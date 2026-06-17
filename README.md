@@ -183,14 +183,7 @@ const yadnyesh: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyesh001&bg_color=0d1117&color=c9d1d9&line=2F81F7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadnyesh001&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
-</p>
 
-<!-- snake animation (enable via Platane/snk GitHub Action, then point src to the generated svg) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yadnyesh001/yadnyesh001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  BEYOND  ░░░░░░░░░░░░░░░░░░░░ -->
 
@@ -201,7 +194,6 @@ const yadnyesh: Developer = {
 <table align="center">
 <tr>
 <td align="center" width="50%">⚽<br/><b>2nd Place</b><br/><sub>All India Inter-IIIT Football Tournament</sub></td>
-<td align="center" width="50%">🎪<br/><b>Transportation Co-Lead</b><br/><sub>Abhisarga IIITS Fest · 200+ participants</sub></td>
 </tr>
 </table>
 
