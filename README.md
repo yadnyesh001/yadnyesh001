@@ -1,161 +1,182 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║   YADNYESH BADGUJAR · Full Stack Developer · MERN + GenAI     ║
-  ╚══════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║   YADNYESH BADGUJAR · Full Stack Developer · MERN + GenAI         ║
+  ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B+I'm+Yadnyesh+Badgujar;Full+Stack+Developer+%7C+MERN+%2B+GenAI;I+turn+ideas+into+scalable+products;RAG+%E2%80%A2+Real-time+Systems+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
-</h1>
+<!-- ░░░░░░░░░░░░░░░░░░░░  HERO  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<a href="https://yadnyeshbadgujar.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:2F81F7&height=220&section=header&text=Yadnyesh%20Badgujar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20GenAI%20%E2%80%A2%20Real-time%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+</a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=130&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+scalable+products.;RAG+%E2%80%A2+Real-time+Systems+%E2%80%A2+Clean+Architecture;900%2B+DSA+problems+%C2%B7+Top+7%25+globally;Always+shipping%2C+always+learning." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://yadnyeshbadgujar.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-2F81F7?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/yadnyeshbadgujar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-1839-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
-  <a href="mailto:yadnyeshbadgujar@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yadnyesh001&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://yadnyeshbadgujar.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/yadnyeshbadgujar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/yadnyesh001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode_1839-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:yadnyeshbadgujar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yadnyesh001&style=flat-square&color=2F81F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
-## 🧠 About Me
+<!-- ░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;🧠&nbsp; whoami
 
 ```typescript
-const yadnyesh = {
+const yadnyesh: Developer = {
   role: "Full Stack Developer",
-  education: "B.Tech CSE @ IIIT Sri City  ·  Class of 2026",
+  education: "B.Tech CSE @ IIIT Sri City · Class of 2026",
   stack: ["MERN", "FastAPI", "GenAI / RAG"],
-  focus: "Building scalable, real-time, AI-powered web products",
-  problemsSolved: 900,        // LeetCode + GeeksforGeeks
-  rank: "Top 7% globally",
-  currentlyExploring: ["Docker", "AWS", "TypeScript", "System Design"],
+  focus: "Scalable, real-time, AI-powered web products",
+  problemsSolved: 900,            // LeetCode + GeeksforGeeks
+  globalRank: "Top 7%",
+  exploring: ["Docker", "AWS", "TypeScript", "System Design"],
   motto: "Code. Create. Contribute.",
 };
 ```
 
-I'm a Full Stack Developer who likes shipping things that actually work at scale — from
-**real-time multiplayer systems** to **retrieval-augmented AI assistants**. I care about clean
-architecture, fast APIs, and writing code my future self won't curse at.
+> I build things that hold up at scale — from **real-time multiplayer systems** to
+> **retrieval-augmented AI assistants** — with clean architecture, fast APIs, and code my
+> future self won't curse at.
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🚀 Flagship Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;🚀&nbsp; Flagship Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Buzz Chat &nbsp;·&nbsp; <sub>[Live Demo](https://yadnyeshbadgujar.vercel.app/)</sub>
-**Real-time chat platform with a built-in AI assistant**
+#### 💬 Buzz Chat
+<a href="https://yadnyeshbadgujar.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-2F81F7?style=flat-square&logoColor=white"/></a>
 
-- Developed a real-time chat application supporting instant messaging, live status, and smart notifications.
-- Integrated an AI chatbot and implemented secure JWT-based authentication for safe user sessions.
-- Designed backend services and a modular React frontend with optimized message flow and state management.
+*Real-time chat platform with a built-in AI assistant.*
 
-`React` · `Node.js` · `Express` · `Socket.IO` · `MongoDB` · `Tailwind`
+- Real-time messaging with instant delivery, live status, and smart notifications.
+- Integrated AI chatbot + secure JWT-based authentication for safe user sessions.
+- Modular React frontend over optimized message flow and state management.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 GitLab Handbook Chatbot &nbsp;·&nbsp; <sub>[Live Demo](https://yadnyeshbadgujar.vercel.app/)</sub>
-**RAG assistant that answers from the GitLab Handbook — with citations**
+#### 🤖 GitLab Handbook Chatbot
+<a href="https://yadnyeshbadgujar.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-2F81F7?style=flat-square&logoColor=white"/></a>
 
-- Built a RAG-based chatbot for the GitLab Handbook with context-aware retrieval and grounded responses.
-- Implemented embeddings and vector search using Cohere and Supabase pgvector for efficient similarity retrieval.
-- Developed a responsive React chat UI with source citations, suggested queries, and optimized state management.
+*RAG assistant that answers from the GitLab Handbook — with citations.*
 
-`FastAPI` · `React` · `LangChain` · `Gemini` · `Cohere` · `Supabase`
+- RAG pipeline with context-aware retrieval and grounded, cited responses.
+- Embeddings + vector search via Cohere and Supabase pgvector for fast retrieval.
+- Responsive React chat UI with source citations and suggested queries.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 IPL Auction &nbsp;·&nbsp; <sub>[Live Demo](https://ipl-auction-woad.vercel.app)</sub>
-**Real-time multiplayer IPL-style player auction (2–10 players)**
+#### 🏏 IPL Auction
+<a href="https://ipl-auction-woad.vercel.app"><img src="https://img.shields.io/badge/▶_Live_Demo-2F81F7?style=flat-square&logoColor=white"/></a>
 
-- Developed a server-authoritative, real-time auction where players build a ₹50 Cr squad with live bidding and presence.
-- Engineered Socket.IO bid validation with a monotonic `bidVersion` guard, budget locks, and auto-sell fallbacks.
-- Designed a React + Zustand SPA with Redis-backed room snapshots for crash-safe, reconnect-friendly sessions.
+*Real-time multiplayer IPL-style player auction (2–10 players).*
 
-`React` · `Vite` · `Zustand` · `Node.js` · `Socket.IO` · `MongoDB` · `Redis`
+- Server-authoritative live bidding to build a ₹50 Cr squad with live presence.
+- Socket.IO bid validation with `bidVersion` guard, budget locks, auto-sell fallbacks.
+- React + Zustand SPA with Redis-backed, crash-safe, reconnect-friendly rooms.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 MealMonkey &nbsp;·&nbsp; <sub>[Live Demo](https://mealmonkey-food.vercel.app/)</sub>
-**Full-stack food ordering & delivery platform with 4 user roles**
+#### 🍔 MealMonkey
+<a href="https://mealmonkey-food.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-2F81F7?style=flat-square&logoColor=white"/></a>
 
-- Developed a MERN food-delivery app for customers, restaurants, delivery partners, and admins with role-based dashboards.
-- Engineered a wallet-driven order flow with automated revenue split, reviews, cart, and live order tracking on maps.
-- Built REST APIs with secure auth and admin analytics for restaurants joined, daily profit, and user management.
+*Full-stack food ordering & delivery platform with 4 user roles.*
 
-`React` · `Node.js` · `Express` · `MongoDB` · `Tailwind`
+- MERN delivery app for customers, restaurants, delivery partners, and admins.
+- Wallet-driven orders with automated revenue split, reviews, and live map tracking.
+- REST APIs with secure auth and admin analytics dashboards.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🧰 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;🧰&nbsp; Tech Stack
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=3" alt="Frontend"/><br/>
-<sub>React · JS · TypeScript · HTML5 · CSS3 · Tailwind</sub>
+<sub><b>FRONTEND</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&perline=3" alt="Frontend"/>
 </td>
 <td align="center" width="25%">
-<h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java&perline=3" alt="Backend"/><br/>
-<sub>Node · Express · FastAPI · Python · Java</sub>
+<sub><b>BACKEND</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java&perline=3" alt="Backend"/>
 </td>
 <td align="center" width="25%">
-<h4>Data & AI</h4>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase&perline=3" alt="Data"/><br/>
-<sub>MongoDB · MySQL · Redis · Supabase · RAG · LangChain</sub>
+<sub><b>DATA &amp; AI</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase&perline=3" alt="Data"/>
 </td>
 <td align="center" width="25%">
-<h4>DevOps & Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&perline=3" alt="Tools"/><br/>
-<sub>Git · Docker · Vercel · Render · Postman · Swagger</sub>
+<sub><b>DEVOPS &amp; TOOLS</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&perline=3" alt="Tools"/>
 </td>
 </tr>
 </table>
 
----
+<p align="center"><sub>RAG · LangChain · Embeddings · Vector DBs · Prompt Engineering · Swagger · Render</sub></p>
 
-## 🏆 Competitive Programming
+<!-- ░░░░░░░░░░░░░░░░░░░░  CP  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;🏆&nbsp; Competitive Programming
 
 <table align="center">
 <tr>
-<td align="center"><h2>900+</h2><sub>Problems Solved</sub></td>
-<td align="center"><h2>1839</h2><sub>Peak LeetCode Rating</sub></td>
-<td align="center"><h2>1757</h2><sub>Peak GeeksforGeeks Rating</sub></td>
-<td align="center"><h2>Top 7%</h2><sub>Global Ranking</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/900%2B-2F81F7?style=for-the-badge&labelColor=0d1117"/><br/><sub>Problems Solved</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/1839-FFA116?style=for-the-badge&labelColor=0d1117"/><br/><sub>Peak LeetCode</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/1757-2F8D46?style=for-the-badge&labelColor=0d1117"/><br/><sub>Peak GeeksforGeeks</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Top_7%25-E94560?style=for-the-badge&labelColor=0d1117"/><br/><sub>Global Ranking</sub></td>
 </tr>
 </table>
 
-> Strong algorithmic thinking sharpened across **LeetCode** & **GeeksforGeeks** — and put to
-> work in production systems, not just contest pages.
+<p align="center"><sub>Algorithmic thinking sharpened across <b>LeetCode</b> & <b>GeeksforGeeks</b> — applied in production, not just contest pages.</sub></p>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;📊&nbsp; GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yadnyesh001&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh001&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yadnyesh001&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyesh001&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyesh001&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyesh001&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=E94560&currStreakLabel=2F81F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -166,22 +187,26 @@ architecture, fast APIs, and writing code my future self won't curse at.
   <img src="https://github-profile-trophy.vercel.app/?username=yadnyesh001&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </p>
 
----
+<!-- snake animation (enable via Platane/snk GitHub Action, then point src to the generated svg) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yadnyesh001/yadnyesh001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
-## 🤝 Beyond the Keyboard
+<!-- ░░░░░░░░░░░░░░░░░░░░  BEYOND  ░░░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+### &nbsp;🤝&nbsp; Beyond the Keyboard
 
 <table align="center">
 <tr>
 <td align="center" width="50%">⚽<br/><b>2nd Place</b><br/><sub>All India Inter-IIIT Football Tournament</sub></td>
+<td align="center" width="50%">🎪<br/><b>Transportation Co-Lead</b><br/><sub>Abhisarga IIITS Fest · 200+ participants</sub></td>
 </tr>
 </table>
 
----
+<br/>
 
 <p align="center">
-  <i>"Code. Create. Contribute." — always shipping, always learning. 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1f3a5f,100:0d1117&height=140&section=footer&text=Code.%20Create.%20Contribute.&fontColor=ffffff&fontSize=22&fontAlignY=68&animation=fadeIn" width="100%" />
 </p>
