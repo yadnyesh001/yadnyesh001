@@ -173,7 +173,6 @@ architecture, fast APIs, and writing code my future self won't curse at.
 <table align="center">
 <tr>
 <td align="center" width="50%">⚽<br/><b>2nd Place</b><br/><sub>All India Inter-IIIT Football Tournament</sub></td>
-<td align="center" width="50%">🎪<br/><b>Transportation Co-Lead</b><br/><sub>Abhisarga IIITS Fest · logistics for 200+ participants</sub></td>
 </tr>
 </table>
 
